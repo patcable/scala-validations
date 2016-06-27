@@ -68,4 +68,4 @@ TODOs
  - [ ] sbt testing
  - [ ] sbt documentation
  - [ ] tests
- - [ ] push to maven central if there's enough intresr
+ - [ ] push to maven central if there's enough interest
